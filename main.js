@@ -4,7 +4,7 @@
 
 $(document).ready(function(){
 
-    console.log(document.querySelector('headrt button'))
+    console.log(document.querySelector('header button'))
     console.log($("#botao-cancelar"))
 
 })
